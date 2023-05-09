@@ -1,14 +1,19 @@
 .clor{
-    background-color: blanchedalmond;
+    background-color: rgb(199, 248, 246);
   
 }
 .ÑL img{
     height: 320px;
     border-radius: 8px;
+    background-color: rgb(43, 28, 9);
 }
 .jh img{
     height: 200px ;
     
     ;
 }
-
+#contact div{
+    background-color: aliceblue;
+   
+}
+    
